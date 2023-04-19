@@ -1193,3 +1193,4 @@ contract GPTCoin is BEP20('GPT COIN', 'GPT') {
         return block.chainid;
     }
 }
+ 
