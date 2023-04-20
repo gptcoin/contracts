@@ -6,7 +6,7 @@
 
 GPT Coin was created on the Binance Smart Chain blockchain, which means it uses the standard functionality of BEP-20, not ERC-20, which is used on the Ethereum blockchain. BEP-20 also provides basic functions such as transfer, balanceOf, approve, allowance, and transferFrom, as well as allows for creating custom additional functions and events. Thus, GPT Coin is an innovative token on the Binance Smart Chain blockchain that provides fast and secure transactions using the standard BEP-20 functions and additional features.
 
-We ran a competition in 2020 which used these environments to measure sample efficiency and generalization in RL. You can learn more [here](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition).
+"As part of this project, GPT Coin aims to provide transparency regarding the technological components of this cryptocurrency. Therefore, we are publishing a code fragment that is responsible for one of the key functions of the coin. Showing the code allows our users to gain a deeper understanding of the principles of our cryptocurrency and ensure its safety and reliability."
 
 <img src="https://raw.githubusercontent.com/openai/procgen/master/screenshots/procgen.gif">
 
