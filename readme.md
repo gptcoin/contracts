@@ -1,10 +1,10 @@
 **Status:** Maintenance (expect bug fixes and minor updates)
 
-# Procgen Benchmark
+# Smartcontract GPT Coin
 
 #### [[Blog Post]](https://openai.com/blog/procgen-benchmark/) [[Paper]](https://arxiv.org/abs/1912.01588)
 
-16 simple-to-use procedurally-generated [gym](https://github.com/openai/gym) environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.  The environments run at high speed (thousands of steps per second) on a single core.
+GPT Coin was created on the Binance Smart Chain blockchain, which means it uses the standard functionality of BEP-20, not ERC-20, which is used on the Ethereum blockchain. BEP-20 also provides basic functions such as transfer, balanceOf, approve, allowance, and transferFrom, as well as allows for creating custom additional functions and events. Thus, GPT Coin is an innovative token on the Binance Smart Chain blockchain that provides fast and secure transactions using the standard BEP-20 functions and additional features.
 
 We ran a competition in 2020 which used these environments to measure sample efficiency and generalization in RL. You can learn more [here](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition).
 
