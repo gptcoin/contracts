@@ -24,6 +24,8 @@ Supported platforms:
 - Protocol: (Bep-20)
 - Contract Type : ERC20
 - SmartContract adress
+(https://testnet.bscscan.com/token/0x7DA40DcDD253620d5FA22A5903fdCd0Cecc026D4)
+
 
 
 
